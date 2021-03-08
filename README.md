@@ -17,7 +17,7 @@ Once the script is running, follow any prompts that may pop up and select the ap
 
 ### Ubuntu
 ```bash
-wget -O setup.sh https://gitcdn.link/repo/QuantumToasted/srb2kart-dedicated-server-scripts/master/srb2kart-server-setup-ubuntu.sh
+wget -O setup.sh https://get.kart.sh
 chmod +x setup.sh
 sudo ./setup.sh
 ```
